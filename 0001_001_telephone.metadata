@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN	
+SES	0001
+CMT	*** Speech Label Information ***
+FIP	data\category\0001\0001_001_telephone.metadata
+CCD	Emotion
+REP	indoor
+RED	
+RET	
+CMT	*** Speech Data Coding ***
+SAM	8000
+SNB	1
+SBF	lohi
+SSB	8
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1,O2
+SEX	O1_Female,O2_Male
+AGE	O1_24,O2_27
+ACC	O1_Hannover,O2_Hannover
+ACT	O1_Standard German,O2_Standard German
+BIR	O1_Hannover,O2_Hamburg
+CMT	*** Recording Conditions ***
+SNQ	
+MIP	close
+MIT	O1_iPhone11,O2_iPhone 11
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	0001_001_telephone.txt
+LBR	1811.968
+LBO	1623.7747421830593
+CMT	*** Customized Label Body ***
+SRA	
+EMO	
+ORS	

@@ -1,0 +1,308 @@
+25.490970479038314	31.208992650577283	O1	Gut, ähm Georg, wie stehst du denn zu dem Thema Emotionen?
+31.208992650577283	35.244152085832035	O1	Ähm und ja, was hast du dazu zu sagen?
+35.55463107828774	40.84812077494983	O2	Ähm ich muss sagen, früher war ich ein sehr nicht emotionaler Mensch.
+41.45464528688113	44.53647089044532	O2	Ähm weil ich nicht meine, ähm
+45.00903549779561	52.74558156896587	O2	ja, Emotions zeigen wollte, weil ich mir selbst nicht meinen Emotions bewusst war.
+53.427401392763244	56.32286291115616	O2	Ähm ich muss sagen, heute ist es än- anders.
+56.32286291115616	61.71717445441777	O2	Ich bin mir eigentlich meinen Emotions viel mehr ähm bewusst.
+62.52855946741239	65.93424987924627	O2	Und weiß, dass es halt auch wichtig ist, über diese zu sprechen.
+66.27856846979142	72.29790151100872	O2	Äh diese zu zeigen, und dass man halt auch den Emotions verschiedene Sachen lernen kann.
+72.56153822447754	76.70813942598475	O2	Und so halt auch verschiedene Sachen besser, ähm
+76.97404885794627	82.28088000512895	O2	ja, verdrängen kann, anstatt wenn man jetzt einfach nicht äh darüber sprechen würde.
+82.30032049977794	87.37078812553632	O2	Und das einfach nur quasi in seinem kleinem Kämmerchen, ähm probiert zu machen, ja.
+89.32748784844166	94.36386361355838	O1	Ähm ja, interessant. Also ich würde vor allem auch sagen, dass äh über die Emotionen zu reden,
+94.65236591013391	100.70468339292309	O1	oder ich meine, nicht nur darüber zu reden, aber auch sie selbst zu di- zu identifizieren und sie zu fühlen,
+100.86220716691724	107.36221607322969	O1	ähm hilft einem natürlich auch, äh diese sozusagen loszuwerden, weil ansonsten können natürlich Emotionen auch irgendwie
+107.36221607322969	111.5548141042365	O1	in sei- in dem Körper, in dem System sozusagen darin steckenbleiben oder
+112.34572509984146	117.69886603642048	O1	gefühlt werden. Und das kann natürlich auch zu verschiedenen Problemen führen, also auch gesundheitlichen Problemen.
+117.96809681327099	125.23451318563305	O1	Und zusätzlich ist es ja auch so, dass Emotionen einen auch verbinden, ne. Also wenn man denn Emotionen auch wirklich ausdrückt und auch anderen Personen zeigt,
+125.51535176404387	127.64423438179907	O1	verbindet das natürlich auch sehr. Wenn man jetzt nie
+128.05285903708133	135.92078107988206	O1	Emotionen zeigt, dann ist natürlich auch schwierig, eine e- eine starke Verbindung zu anderen Personen zu haben oder einer Gruppe von Personen.
+138.6963596737574	144.0997756487531	O2	Stimme ich zu. Und aber ich finde, es hat auch sehr viel damit zu tun, wie man aufgewachsen ist.
+144.31684747774622	149.7029542541718	O2	Das heißt, wenn man jetzt irgendwie groß in einer emotionalen Familie aufgewachsen ist,
+149.71204518515574	154.477330154918	O2	wo man viel über Emotionen gesprochen hat, fällt es halt einem auch viel einfacher, das später zu machen.
+154.59543035580157	158.52205660241523	O2	Aber wenn man jetzt äh in einer Familie aufgewachsen ist, wo es halt wirklich
+159.1640728221427	164.13525503012596	O2	wenig ist, dass man ähm ja über Emotion spricht,
+164.98415131096982	166.9546716213777	O2	äh finde ich es halt schwierig, ja.
+167.81552539998395	174.1715591265264	O1	Ja, ich meine, das stimmt. Ist natürlich hier mit andere- also mit allen äh Faktoren, die über die man so sprechen kann, ist natürlich
+174.1767826259898	179.3710717870433	O1	klar, macht es einen Rieseneinfluss, oder ha- hat es einen Rieseneinfluss da darauf, wie man in einer Familie aufgewachsen ist.
+179.66346900244315	186.93710762151053	O1	Ähm dennoch, wi- wie gesagt, sobald man halt erwachsen ist, hat man dann die eigene Verantwortung, sich natürlich mit dem Thema auseinanderzusetzen.
+187.08982794406955	191.7842109701285	O1	Aber ist natürlich viel einfacher, damit umzugehen, mit Emotionen, wenn man das in der Familie schon immer gemacht hat.
+192.4675394249913	199.63380916056505	O1	Ähm und ja, mir persönlich ist es auch sehr wichtig. Also ich habe, wie gesagt, noch keine Kinder, und das werde ich jetzt auch nicht in der Zukunft haben.
+199.63380916056505	202.65514740875753	O1	Also werde ich schon in der Zukunft haben, aber jetzt nicht so in der nahen Zukunft.
+203.05925749883602	207.27863035982418	O1	Aber mir persönlich ist es auch jetzt schon wichtig, wenn ich darüber nachdenke eine Familie zu haben, dass
+207.40154797690138	214.45092812537288	O1	ich dann in der Familie auch über Emotionen spreche und das ähm alltäglich ähm
+214.45092812537288	218.794077521739	O1	ja, behandelt ist, oder was heißt behandelt wird? Oder all- alltäglich immer darüber sprechen kann,
+218.794077521739	224.8113115627859	O1	weil ich das super wichtig finde. Und auch generell in der Gesellschaft, mir ist es auch sehr wichtig, auch mit meinen Freunden,
+224.8113115627859	231.91042647468282	O1	und mit meiner Familie heutzutage über meine Emotionen zu sprechen und selbst halt zu wissen, welche Emotionen fühle ich gerade.
+231.91042647468282	237.75966348913283	O1	Die dann auch zu fühlen, weil ich finde das super schrecklich, dass in der Gesellschaft das irgendwie so,
+238.12967824434517	239.19846603000835	O1	also kaum,
+239.80080429373209	245.3068527107116	O1	was heißt kaum anerkannt ist? Aber man hat sehr wenig Raum dafür. Weil klar, wenn man jetzt gerade irgendwie
+245.3068527107116	251.95551616880792	O1	die also die acht Stunden am Tag arbeitet und auf dem Arbeitsplatz ist, kann man ja nicht einfach so anfangen zu weinen, das ist ja auch,
+251.95551616880792	254.44200819378716	O1	gut, verstehe ich ja auch, das macht ja jetzt nicht so viel Sinn.
+254.44200819378716	260.6041840817788	O1	Ähm aber natürlich ist es dann wichtig, diese Emotion zu sagen, z- zu identifizieren und zu sagen, gut,
+260.76120896684046	265.7747831001543	O1	wenn man dann irgendwie nach Hause kommt oder eine Möglichkeit hat, irgendwie in einen ruhigen Raum zu gehen, diese Emotionen auch zu fühlen,
+265.7747831001543	273.5404127177594	O1	weil das ist ähm schon sehr wichtig für mich. Ansonsten baut sich diese Emotion halt langsam auf und man wird sie niemals fühlen.
+274.01101167931887	280.9195446481843	O1	Ähm aber was ich eigentlich interessant finde, was ich neulich gehört habe, wie viele Menschen ähm sehen äh Wut
+280.9195446481843	288.9195446481843	O1	als eine sehr schlechte Emotion. Oder es gibt ja auch verschiedene Emotionen, die als gut in der Gesellschaft anerkannt werden, so etwas wie Freude.
+289.1344208066897	295.92902456773714	O1	Oder andere Emotionen, wie jetzt, wie gesagt, Wut, die schlecht angesehen sind. Wie würdest du das denn, wie stehst du dazu?
+295.92902456773714	300.7706498387389	O1	Und ähm wie drückst du Wut allgemein aus, wenn du so etwas fühlst?
+301.8869869057488	305.6467825568968	O2	Ähm ich muss sagen, Wut, ich bin eher ein introvertierter Mensch.
+305.7499571456103	312.710273630359	O2	Äh und daher ist Wut, mache ich das eher mit mir selber im Stillen.
+312.73408315083134	317.5571169098204	O2	Und probiere das dann alleine darüber nachzudenken ähm.
+319.0624864136339	322.55154209226134	O2	Und ja, ich äußere es dann eigentlich nicht so groß.
+322.940430926643	328.1255486878049	O2	Und ja, probiere es halt selber, zu zu verarbeiten und zu verstehen.
+328.36364389252833	334.04578910942286	O2	Ähm und ich finde aber Emotionen gut, sehr wichtig, weil man dadurch verschiedene Sachen verarbeitet.
+334.1092811640158	337.8928593450099	O2	Man muss halt einfach probieren, unter zu Kontrolle zu halten.
+338.9428295360036	341.9671417937678	O1	Ja. Ähm ja, sehr interessant.
+341.9671417937678	347.207292500318	O1	Äh verstehe ich auch. Ich finde vor allem Wut ist auch so eine, wie gesagt, so eine Emotion, die in der Gesellschaft irgendwie so eine schlechte
+347.43002616185294	351.19541129368577	O1	an- also es halt so einen schlechten also Ruf hat irgendwie.
+351.42995723564184	355.46589333598115	O1	Und ich auch mu- also ich persönlich muss auch sagen, ich fühle sehr selten Wut.
+355.5828522221411	360.09294756091185	O1	Aber es ist natürlich eigentlich eine Emotion, die auch essenziell ist. Also alle Emotionen sind ja sehr wichtig.
+360.63680638155563	367.9874518637674	O1	Und äh viele Menschen u- haben eigentlich so unterdrückte Wut in sich, ähm die dann sich auch in schlechten Formen dann äußert.
+368.4229357967576	373.70469800577956	O1	Und ich hatte nämlich neulich äh, relativ interessant, einen Workshop, wo es halt primär über
+374.4143755262083	381.11710266690477	O1	es ging halt um verschiedene Emotionen. Und ein Part des Workshops war dann so ein Anger release, ähm, also verschiedene
+381.5435726459656	387.38222294770367	O1	wie man halt Wut ähm in einer guten Form, sagen wir so, ausdrücken kann, und die einem dann hilfreich sein kann.
+387.72942638772554	395.2981777972237	O1	Ähm und das fand ich sehr interessant. Ähm und vor allem was halt viele Leute natürlich äh verarbeiten auch Wut zum Beispiel mit Sport.
+395.2981777972237	402.94684348275723	O1	Ähm was natürlich auch sehr sinnvoll sein kann durch äh verschiedene Übungen. Ähm und das finde ich persönlich, hilft mir auch immer.
+402.94684348275723	410.8790110082935	O1	Ähm auf jeden Fall gibt es ja auch dieses klassische Klischee, Wut auszudrücken, ist dann zum Beispiel irgendwie irgendwas zu,
+411.2319516806197	418.0868491614287	O1	keine Ahnung, zer- zerhämmern oder irgendwie Teller zu schmeißen oder irgendwo gegenzutreten oder zum Beispiel Boxen und so.
+418.40633737719264	421.18322190660155	O1	Und bei dem Workshop wurde dann auch gesagt, das Wichtige ist eigentlich nicht,
+421.18322190660155	427.2861543655754	O1	wie fest man schlagen kann oder wie fest man irgendwas zertreten kann oder zerschmeißen kann, sondern eher,
+427.2861543655754	432.6842516368921	O1	diese Emotion wirklich dabei zu fühlen. Und dann ha- reicht das auch, wenn man wirklich nur irgendwie ganz leicht schlägt.
+432.88443686347813	436.3249657208679	O1	Sofern man aber diese Emotion wirklich fühlt und dann irgendwie herauslässt.
+436.7073181158879	443.9366677287581	O1	Und ja, auf jeden Fall, finde ich, äh kann Sport da auch sehr viel helfen, äh Emotionen gut auszudrücken. Oder wie si- wie siehst du das?
+444.7955711034675	451.2913476515885	O2	Ähm also mir persönlich hilft es sehr viel, ähm es mit Sport zu verarbeiten.
+451.87054702733576	458.3908416656545	O2	Ähm weil ich finde, darüber kommt man auf andere Gedanken.
+458.6040766551849	466.2247767522408	O2	Und man probiert sich halt wirklich damit auseinanderzusetzen, und weiß, dass es halt ähm ja, besser werden kann.
+466.2247767522408	469.0685948593842	O2	Und somit auch ähm
+470.29298676251875	477.6629268340617	O2	ja, man man auf Gedan- andere Gedanken kommt und die Emotion besser handeln kann und die Wut an sich selber auslassen kann und nicht an anderen.
+478.98189275924665	479.8963733341991	O1	Ja, genau.
+480.2346081451784	481.8181049412801	O1	Das finde ich auch sehr wichtig.
+482.741279681239	490.081554335999	O1	Dass man Emotionen dann nicht, oder die Wut nicht an anderen auslässt. Ähm und ähm
+490.40584436789925	496.6413545308003	O1	ja, ansonsten gibt es natürlich auch andere Arten, wie man Emotionen ausdrücken kann, zum Beispiel auch seine Emotionen
+496.979660643538	504.84550836394084	O1	ähm zu schreiben äh, wie nennt man das? Zu Journalen. Also in, keine Ahnung, so etwas wie ein Tagebuch zu schreiben. Oder ähm
+506.1472452471121	512.6558748548917	O1	ja, as- oder wie, welche verschiedenen Arten kennst du denn, die Emotio- o-, Emotionen noch auszudrücken?
+515.0869126686586	518.5696650998154	O2	Ähm ja, ich finde es halt einfach
+518.7851935981122	523.8541660608598	O2	ähm wichtig, dass man sich bewusst ist, wie man seine Emotionen handeln ka- ha- handeln kann.
+523.9834765828688	529.3671046491712	O2	Aber auch wie man ähm es anderen zeigt, wenn man jetzt halt,
+530.2550369002988	534.155904314233	O2	einfach nur immer schlecht gelaunt, zu ne- der anderen Person nicht zeigt, dann ist es schwierig,
+534.2035233551776	539.6886159011766	O2	ähm dass man seine Emotionen äh auch mit Hilfe von anderen verarbeiten kann.
+540.4124832610779	546.5199725597046	O1	Ja. Ja, ähm also klar, man kann natürlich auch andere Leute dazu,
+546.5199725597046	553.5266205111615	O1	oder mit anderen Leuten die Emotionen zu verar- äh verarbeiten, das ist natürlich auch ein wichtiger Faktor, würde ich sagen, weil
+553.5266205111615	557.0771185272442	O1	das einen auch verbindet, also natürlich mit Freunden, Familie und so weiter.
+557.5926462089466	564.1734719675686	O1	Ähm oder ansonsten äh sich psychologische Hilfe zu suchen, und auf irgendeine Art und Weise, ähm ist natürlich auch sinnvoll.
+564.6904289112605	568.8692688163934	O1	Und ähm ja, ich glaube schon, also ich meine heutzutage vor allem
+568.8692688163934	575.3677244871501	O1	viele Leute in unserem Alter, aber ich meine eigentlich in jedem Alter, haben ja viele mentale oder emotionale Probleme.
+575.3677244871501	582.5387805456303	O1	Und soweit, also sofern ich das einschätze, oder wie ich das von meiner Perspektive aus sehe, ich meine, die ist natürlich auch limitiert,
+582.6872952088436	590.0094291205969	O1	liegt das einfach wirklich da daran, dass die Mehrheit der Bevölkerung, die Emo- also seine Emotionen nicht wirklich fühlt mehr. Ähm und
+590.325450355555	596.8309030637763	O1	wie ich das schon vorher angedeutet habe, liegt das, glaube ich, schon auch da daran, dass unsere unser Alltag ni- nicht wirklich dazu ausgelegt ist.
+597.1103144293678	603.3469075437998	O1	Weil wenn man wirklich schon ähm acht Ta- acht Stunden des Tages arbeitet und dort einfach nicht den Raum dazu hat,
+603.5104100189264	609.154673453352	O1	und dann, wie gesagt, noch so viele andere Dinge macht, und die meisten Menschen heutzutage lenken sich halt, wie gesagt, ab,
+609.2649674134537	613.7123586605418	O1	also zumindest aus meiner Sicht, durch ähm, wie gesagt, arbeiten.
+613.7932408979499	618.7344103105166	O1	Oder ähm, weiß ich nicht, Filme schauen, Netflix ähm oder
+619.7785264661484	621.1864914258585	O1	sei es durch Essen,
+621.3424054265588	629.3424054265588	O1	oder teilweise natürlich auch durch Sport. Also Sport kann man natürlich gut und schlecht machen. Also das auf eine gute Art und Weise auszudrücken oder auf eine schlechte Art und Weise. Aber ich glaube,
+629.7053689973567	633.7197079612273	O1	viele Menschen sind halt, wie gesagt, lenken sich ab durch verschiedene Dinge und
+634.4378915089607	638.5197195207609	O1	fokussieren sich nicht da darauf, die Emotionen wirklich zu fühlen und auszudrücken.
+638.801538381264	644.252059805068	O1	Und dieses Ausdrücken von Emotionen finde ich auch sehr wichtig durch Bewegung, wie ich ja schon vorher gesagt hatte.
+644.5879159525578	649.2742908747919	O1	Aber nicht nur durch Sport, sondern auch verschiedene Bewegung, also so etwas wie Tanzen.
+649.6288371831665	653.1015728190412	O1	Oder ähm, ja, weiß nicht, diese diese,
+653.147027473961	658.6015860643402	O1	Formen von Bewegung können einem auch sehr helfen, die Emotionen auszudrücken und rauszulassen.
+662.5529265107234	670.3493225762794	O1	Kurz eine andere Frage, ähm was hältst du denn von Meditieren und glaubst du, das hilft, äh Emotionen auszudrücken oder zu fühlen?
+671.3584346682698	676.4803688450002	O2	Äh ich muss sagen, ja, Meditieren hilft bestimmt, die eigenen s- Emotionen besser zu verarbeiten.
+676.4803688450002	682.2599993381472	O2	Ähm ich selber meditiere eigentlich praktisch nie zur Zeit. Es gab eine Zeit, wo ich mal öfters meditiert habe.
+682.6469274935087	685.7323256747295	O2	Ähm aber jetzt hilft definitiv, die eigenen, ähm
+686.4390572414919	693.8311646564492	O2	Emotionen besser zu verarbeiten. Aber ich muss sagen, ich bin selber fast zu aktiv, um zu meditieren, weil ich mich sehr gerne bewege.
+694.4710663423475	695.6562548222037	O2	Ähm ja.
+697.5576844607004	703.9941099493968	O1	Ja, ähm interessant. Also klar, verstehe ich natürlich, man muss ja auch seine Prioritäten setzen, man muss ja auch nicht meditieren.
+704.0872776027164	709.4052095674492	O1	Ich finde es aber auf jeden Fall ein sehr spannendes Thema und ich versuche persönlich schon ähm, öfter zu meditieren.
+709.782454424752	714.8014394804366	O1	Ähm da finde ich es jetzt auch sehr interessant, ich habe ja jetzt neulich ein Buch äh dazu gelesen und ähm
+715.2812248488192	720.8460628044451	O1	da geht es dann quasi primär da darum, in ein ähm Alpha-Level zu kommen.
+720.8460628044451	724.4468275065386	O1	Also es gibt ja verschiedene prä- äh Gehirnfrequenzen.
+724.7325416433857	730.8226005820511	O1	Und in den Alpha-Level zu kommen. Und in diesem Alpha-Level ist es ähm meistens so, dass man, wie gesagt, sehr entspannt ist.
+731.0834700113464	738.0555160681048	O1	Und ähm sehr ja, sehr positive oder sehr gute ähm Emotionen fühlt.
+738.0555160681048	743.4604999962444	O1	Ähm und ich glaube, das würde wahrscheinlich auch vielen Leuten helfen, sich ähm öfter in dieser
+743.6716800104357	748.0091646967464	O1	Frequenz aufzuhalten oder das versuchen täglich zu tun ähm.
+748.1458105882821	755.7765146674325	O1	Da das auch sich sehr positiv auf den Körper auswirkt und man dadurch natürlich auch mehr Emotionen zulassen kann, weil man
+756.0339707720277	759.859208726281	O1	wie gesagt, sich mit sich und seinen Emotionen beschäftigt.
+759.859208726281	765.4474360381126	O1	Weil während man meditiert kommen natürlich auch viele Gedanken oder verschiedene Emotionen hoch,
+765.4474360381126	770.3359767638373	O1	die vielleicht sonst nicht so wirklich Raum haben in dem täglichen Alltag.
+775.8820123408366	781.4040278497619	O2	Ähm ja. Äh aber ich finde, es halt wirklich in der heutigen Welt schwierig,
+781.605344576588	785.9364354881419	O2	ähm so halt sich zurückzulehnen und wirklich Zeit zu finden, um zu meditieren.
+787.0991180875268	793.1105681036076	O1	Klar, also es ist extrem, was heißt es ist schwierig? Ich würde auch sagen, es ist schwierig. Aber man hat natürlich schon ähm
+793.546465551842	800.4792604908317	O1	also der Tag hat vierundzwanzig Stunden und man muss sich die Zeit, meiner Meinung nach, auch gut einteilen. Man hat zum Beispiel natürlich auch oft Zeit irgendwie
+800.4882695199078	808.2374205861389	O1	eine halbe Stunde am Tag auf Instagram zu verbringen. Man muss natürlich nicht eine halbe Stunde am Tag auf Instagram verbringen. Man kann ja auch diese halbe Stunde nutzen zum Meditieren.
+808.3912667443392	813.8670243962612	O1	Und ich meine, Meditieren muss ja auch nicht ähm, man muss ja jetzt nicht stundenlang meditieren. Also es gibt natürlich Menschen,
+814.0208705544615	820.8415723111935	O1	oder irgendwelche Mönche, die jeden Tag, weiß ich nicht, zehn Stunden meditieren. Das muss ja auch nicht sozusagen sein.
+821.1428543710024	826.9403397632668	O1	Ähm ich persönlich, wenn ich meditiere, meditiere ich meistens auch nicht länger als äh fünfzehn Minuten.
+826.9403397632668	834.303833872477	O1	Manchmal mache ich es eine halbe Stunde, und manchmal mache ich es nur fünf Minuten. Also es reicht ja auch mal, fünf Minuten sich Zeit für sich zu nehmen.
+834.9384492750531	841.9649733727173	O1	Oder was ich auch äh persönlich sehr gut finde ist vor dem Schlafengehen. Man kann ja auch eine führende Meditation machen. Das heißt,
+842.0739477347759	845.743613679701	O1	man macht einfach auf YouTube, kann man irgendwie eine Meditation suchen,
+845.743613679701	850.8750240813395	O1	stellt die sich an und ähm hört die sich an, bevor man schlafen geht zum Beispiel, anstatt
+851.1122035752315	857.7316224493856	O1	vor dem Schlafengehen irgendwie noch zwanzig Minuten auf Instagram zu verbringen. Also es ist auch irgendwie, finde ich, eine Form vo- also
+857.9688019432776	863.1123418842145	O1	wie man sich die Zeit einteilt, ob es halt eine Priorität ist oder nicht. Weil meistens hat man schon Zeit,
+863.1123418842145	867.318804287188	O1	man nutzt die Zeit halt natürlich für andere Dinge und priotiti- prioritisiert die.
+870.1082607271258	877.6115930421022	O2	Ähm ja, ich finde, bei mir hängt es sehr damit zusammen, ob ich zu Hause wohne oder nicht. Zu Hause nehme ich mir die Zeit nicht.
+878.660378803865	884.4743486283523	O2	Ähm aber wenn ich jetzt woanders bin, kann ich mir die Zeit besser einteilen. Und ähm ja.
+885.563796512543	891.0491802228569	O1	Klar, also es hängt natürlich wirklich von dem ähm alltäglichen Leben ab und wo man gerade genau ist
+891.0491802228569	896.0786751624304	O1	und wie man Zeit hat. Aber wie gesagt, man kann sich auf jeden Fall jeden Tag fünf Minuten Zeit nehmen.
+896.4025391725148	900.6088347512003	O1	Aber ich verstehe das genauso. Ich äh meditiere auch nicht jeden Tag.
+901.4057238351547	903.6913837180863	O1	Und ähm denke mir auch oft,
+904.8391123152278	910.103322935285	O1	gut, ich habe jetzt nicht wirklich Zeit dafür aber ich hätte schon Zeit dafür, ich teile mir die Zeit nur irgendwie anders ein.
+911.3703698519308	913.2493214498974	O1	auch nicht machen, wenn man ähm
+913.57886728472	920.8478728507624	O1	wenn man es nicht will. Also das ist natürlich auch kein Muss, dass man meditiert. Ähm, aber ich finde schon, dass es sinnvoll sein kann. Vor allem, wenn man irgendwie
+921.2208833109737	927.6460653978024	O1	ähm sich mehr mit sich selbst auseinandersetzen möchte und mehr über seine Emotionen lernen möchte, ähm ist es schon sinnvoll.
+934.9041794614218	939.1349545915219	O2	Ja, ich finde, es ist einfach wichtig, dass man sich bewusst ist, wie man die verschiedenen Sachen einteilt.
+939.3236657153891	945.830675565135	O2	Ähm und man weiß, wie man mit seinen ähm ja, Emotionen echt am besten umgeht.
+947.6522874593667	954.579638500334	O1	Ja. Also ich denke auch, das Wichtige ist einfach, sich damit äh irgendwie auseinanderzusetzen. Jeder hat natürlich eine andere Art und Weise, wie man das tut.
+954.7871852465553	958.5924806645655	O1	Und da gibt es jetzt auch irgendwie kein Richtig oder Falsch. Aber
+959.1144073390849	966.5877385943281	O1	ähm so oder so ist es einfach sehr essenziell für Menschen, Emotionen zu haben. Und wenn man nie Emotionen fühlt,
+966.5877385943281	973.1373027325882	O1	und vor allem, finde ich, k- also so wie ich das von anderen mitbekomme, können viele ihre Emotionen auch gar nicht wirklich definieren.
+973.1373027325882	979.3747735401506	O1	Also die fühlen sich dann irgendwie, aber können jetzt gar nicht sagen, ist es jetzt äh, bin ich jetzt äh ja,
+979.4409987463771	983.1277579268135	O1	ist es jetzt Freude, ist es jetzt Wut, ist es jetzt ähm,
+983.8363676334367	988.2274264349072	O1	weiß ich nicht, äh Eifersucht, das ich die ich fühle, oder ist es Nervosität,
+988.2274264349072	993.2852371043506	O1	die ich fühle, oder fühle ich mich gerade gut oder schlecht. Also ich habe irgendwie das Gefühl,
+993.2852371043506	998.8979643357078	O1	zumindest wenn ich mit anderen Leuten rede, dass viele gar nicht so gut definieren können äh, wie sie sich eigentlich fühlen.
+999.1791433848257	1004.0793405008258	O1	Und ähm zusätzlich finde ich es auch diese, es ist ja auch in der Gesellschaft so verankert,
+1004.0793405008258	1009.3388782312695	O1	dass meistens fragt man ja, wie geht's dir? Und man sagt, gut. Obwohl es einem jetzt gar nicht wirklich gut geht.
+1009.3388782312695	1013.01366678424	O1	Und ähm ich sehe natürlich auch Gründe dafür.
+1013.01366678424	1017.4533819554447	O1	Also klar will ich jetzt auch nicht mit jeder Person über meine Emotionen reden, wenn mich jemand fragt, wie es dir geht.
+1017.7786217214802	1021.6741588425695	O1	würde ich würde ich jetzt auch nicht jedem erzählen, wie wirklich meine Emotionen aussehen. Aber
+1022.095210832745	1027.0022875780596	O1	ich finde es schon wichtig, dass man irgendwie ehrlichere Konversationen hat ähm und
+1027.0022875780596	1031.3215647991215	O1	wenn mich jemand fragt, wie es mir geht ähm, sage ich dann manchmal schon, ja
+1032.290189861955	1038.6599712024183	O1	gut einigermaßen, aber es gibt natürlich viele andere Dinge, die in meinem Leben gerade vorgehen, aber über die ich jetzt gerade nicht so gerne reden will.
+1038.6599712024183	1043.856916795421	O1	Oder ähm manchmal sage ich dann auch wirklich meine ehrliche Meinung dazu da, wie es mir geht.
+1044.2077934539009	1045.479018754844	O1	Oder wie siehst du das?
+1046.50035486626	1051.3720282123263	O2	Ähm ja, ich finde es wichtig, dass man sich mit anderen Leuten darüber unterhält
+1051.7462966480384	1056.587939063681	O2	und man halt auch versteht, ähm
+1058.7358805353392	1062.6241122618583	O2	ja, wie man, wie die andere Person vielleicht auch die Emotionen handeln kann.
+1062.811246479714	1069.2503671677573	O2	Und nicht, dass die amer- andere Person dann völlig überfordert ist, und das eigentlich die Emotion nur ähm verschlechtert.
+1071.7765869243867	1077.482177713603	O2	Finde ich wichtig, dass man sich halt auch bewusst ist, mit wem man redet und in welchem Tonfall man redet, mit der anderen Person.
+1077.8509727442702	1080.0303911808294	O2	Was hältst du denn von äh Psychologen?
+1081.9358964438125	1086.885303846307	O1	Ja, da muss ich auch äh persönlich sagen, also allgemein finde ich es natürlich sehr wichtig, wenn man ähm,
+1086.885303846307	1093.3162174069084	O1	Hilfe braucht, dass man sich dann einen Psychologen ähm sucht und mit dem das Ganze behandelt. Aber ich finde, es gibt auch
+1093.3162174069084	1100.994210190749	O1	ganz, ganz, ganz viele Probleme äh, meiner Meinung nach, äh mit Psy- Psychologen und in der Psychologie und in dem Psychologie-Studium.
+1101.5332183124926	1106.9153047351974	O1	Da wie gesagt, ich finde, man kann das nicht so einfach sehen, den Körper und ich persönlich
+1106.9153047351974	1109.6068203372283	O1	ähm habe auch schon Erfahrung mit Psychologen gemacht.
+1109.944937397674	1117.5160027047452	O1	Ähm und das Problem ist, finde ich oft, dass es dann nur, also dass man nur über die Emotionen redet,
+1117.6182755500352	1124.7952981981623	O1	oder nur über Probleme redet. Aber das Problem ist, dass es eigentlich eher darum geht, die Emotionen zu fühlen und auch dem Körper
+1124.8403029435094	1131.3718894236508	O1	sozusagen herauszulassen. Und da finde ich, gibt es ganz coole ähm Alternativen, die man äh machen kann.
+1131.3718894236508	1137.0475777415377	O1	Aber sozusagen diese Sprach- ähm Therapie, finde ich, ist sehr limitiert.
+1137.0475777415377	1144.0520285791504	O1	Also so wie ich das von anderen gehört habe und me- in meiner eigenen Erfahrung, da würde ich sagen, ist es sehr limitiert nur über seine Gefühle zu sprechen,
+1144.0520285791504	1149.8487949720545	O1	anstatt sie wirklich zu fühlen. Und ähm das da ja nicht wirklich so oft stattfindet.
+1149.885444174854	1154.7089070701672	O1	Ähm aber im Allgemeinen finde ich es natürlich sehr wichtig, ähm sich Hilfe zu suchen.
+1155.1430848155967	1160.8117931833033	O1	Ähm und ähm ja, mehr kann ich jetzt auch nicht dazu sagen. Wie siehst du das denn?
+1162.744598992881	1166.2072134114842	O2	Ähm ja, ich finde es wichtig, dass man auch
+1166.58711819635	1171.1064319911875	O2	wenn man selbst nicht mit der Emotion umgehen kann, dass man sich halt professionelle Hilfe sucht.
+1171.435199522099	1178.139200866965	O2	Und dann halt probiert ähm ja, mit der Person darüber zu sprechen.
+1178.139200866965	1183.0983053875013	O2	Und zu sehen, ob es besser wird. Natürlich braucht es viele verschiedene Einheiten.
+1183.524518629803	1190.3507909294	O2	Und viele verschiedene Zeit und viel Aufwand. Und es kann auch sehr emotional sein, das einer anderen, ja, Person zu erzählen.
+1190.3507909294	1194.6525657461111	O2	Dennoch denke ich, ist es wichtig ähm, halt sich auch professionelle Hilfe zu besorgen,
+1194.7210589817175	1196.409606036021	O2	wenn man merkt, es geht nicht weiter.
+1198.3289468979945	1204.6522163246004	O1	Ja, ähm das auf jeden Fall. Also ich denke auch, also es ist immer sehr wichtig, sich dann professionelle Hilfe zu suchen.
+1204.837148060738	1208.9113797412338	O1	Ähm aber ich muss sagen, also erst mal ähm
+1209.380994451751	1216.4689320040761	O1	ist das Problem, zumindest in Deutschland, sow- sowie ich das kenne und weiß, ähm dass es erst mal nicht wirklich genügend Psychologen gibt.
+1216.4689320040761	1221.9911123210265	O1	Also heutzutage ähm hat man echt Wartezeiten von teilweise über einem halben Jahr.
+1222.12809879224	1229.667967782468	O1	Und das finde ich schon echt fatal, weil ähm wenn man halt wirklich gerade akut Hilfe braucht und dann irgendwie ein halbes Jahr oder länger warten muss, um einen Platz zu finden,
+1230.0789271961069	1235.9775598286883	O1	ist es schon sehr schwierig. Ähm zusätzlich ist halt die andere Sache natürlich, dass es auch sehr individuell ist.
+1235.9775598286883	1240.2072209067603	O1	Man kann jetzt nicht mit jedem Psychologen, obwohl da natürlich jeder Psychologe ausgebildet ist,
+1240.3031114366092	1246.9484574845974	O1	aber nicht mit jedem Psychologen fühlt man sich so wohl. Und dann ähm kriegt man vielleicht auch einen Platz bei einem Psychologen, wo man sich dann nicht so wohlfühlt.
+1247.1059919264924	1250.790932675647	O1	Ist dann auch immer ein bisschen Problem, äh wenn man sich das nicht wirklich aussuchen kann.
+1251.1539468243618	1254.3082514574066	O1	Und zusätzlich, wie gesagt, ähm sehe ich das Problem,
+1254.8014027537738	1261.2324271665393	O1	dass ähm ja, eine reine Sprachtherapie für mi- aus meiner Sicht sehr limitiert ist.
+1261.4332991572212	1268.7099046527867	O1	Nur darüber zu sprechen, es gibt halt, wie gesagt, auch andere Alternativen. Zum Beispiel ähm EDMR ähm,
+1268.7099046527867	1274.4779136101765	O1	habe ich schon öfter gehört, ist sehr interessant. Wo man dann wirklich durch verschiedene Augenbewegungen ähm,
+1274.5304643918892	1282.382662653321	O1	verschiedene Emotionen fühlt und die dann auch ablösen kann und loslassen kann. Oder ähm ich habe auch schon gehört, es gibt so etwas wie Gestalttherapie,
+1282.530734859709	1286.8920065168004	O1	wo man ähm seine Emotionen wie,
+1286.8920065168004	1291.6882705414596	O1	also ich habe persönlich noch nicht gemacht, deswegen kann ich es nicht hundert Prozent sagen, ich habe es nur erzählt bekommen.
+1291.9622434838855	1299.9348461896432	O1	Aber dass man seine Emotionen wie selbst ähm darstellt, also die selbst äh verkörpert. Und ähm
+1300.9536903296982	1306.20849411934	O1	auch w- ja, verschiedene Konversationen mit anderen Leuten, die einem irgendwie helfen kann,
+1306.20849411934	1313.2017190535314	O1	äh sozusagen verkörpert. Also sagen meine Konversation mit deiner Mutter zu fühlen tut man dann mit dem Psychologen.
+1313.3255793587111	1319.5031776676233	O1	Und um dann diese Emotionen wirklich zu fühlen und ausdrücken zu können, wenn ich das jetzt irgendwie richtig beschreibe.
+1319.5122685986073	1325.7668291155753	O1	Ähm deswegen es gibt schon echt coole Alternativen, die man äh machen kann, zur normalen Sprachtherapie.
+1327.0941050392341	1333.3850292801383	O2	Ja. Ähm ich muss aber dazu auch sagen, dass es wichtig ist,
+1333.4941204519457	1338.1123133918002	O2	sich selbst bewusst zu sein, ähm
+1339.585044211202	1344.4941469425435	O2	ja, wie man am besten mit den Emotionen umgeht, und dass es halt wirklich wichtig ist,
+1344.6032381143511	1350.0305239117783	O2	äh auf einzelne Fälle zu achten, weil halt jeder ähm verschieden mit den Emotionen umgeht.
+1351.5396184551166	1356.4305393244897	O1	Ja, klar. Also das ist auch die andere Sache, jeder geht natürlich anders mit den Emotionen umgehen um.
+1356.575994220233	1364.1631385003561	O1	Und jeder braucht eine andere Form, um damit umzugehen, deswegen, wie gesagt, äh sollte es natürlich, oder sollte man verschiedene
+1364.2935732150036	1367.2643067499305	O1	äh Angebote wahrnehmen, wie man das Ganze machen kann.
+1367.3183609243865	1373.7690545330308	O1	Wenn ich jetzt zum Beispiel, oder ich gehe gerne spazieren im Wald und denke da über meine Emotionen und Gefühle nach.
+1373.976262201779	1377.4229732008084	O1	Ähm andere Leute finden das aber ganz schrecklich und die,
+1377.792589098649	1383.122249810583	O1	weiß ich nicht, setzen sich lieber in einen Café und trinken da einen Kaffee und denken da über ihre Emotionen nach zum Beispiel.
+1383.3564845665592	1387.9851607698329	O1	Ähm muss jeder selbst wissen, was er gerne macht ähm.
+1388.555432364584	1396.3534036011274	O1	Und äh ja, es gibt natürlich, wie gesagt, verschiedene, einzelne Methoden. Also ich finde es auch sehr wichtig, so in seinem Alltag einzubauen. Zum Beispiel
+1396.5715859447428	1403.5033799594614	O1	Journaling ist eine Sache, die sehr vielen Leuten hilft ähm, ihre Gefühle herunterzuschreiben und aufzuschreiben.
+1403.8124716129162	1410.3852147143232	O1	Oder ähm ich habe jetzt neulich, oder die letzte Woche noch öfter ausprobiert, eine Methode, die heißt faster EFT.
+1410.5943061269543	1417.8397781211745	O1	Ähm wo man verschiedene Punkte in seinem äh Gesicht und seinen ja, Körper also
+1419.0215991490902	1423.7716105882118	O1	anfässt und das nennt man wie so, sagen wir mal, so klopfen.
+1424.1807024824902	1431.6495403148615	O1	Und dann währenddessen sich ähm zum Beispiel eine eine Situation vorstellt, die einen ähm irgendwie stört.
+1431.6495403148615	1436.0235541762365	O1	Oder ein Problem vorstellt, die einen stört, oder eine Emotion, die einen irgendwie stört.
+1436.2282322270162	1442.335850424328	O1	Und ähm dann verschiedene Sätze dazu sagt, um diese Emotionen loszulassen und
+1442.581464085264	1446.7816458668092	O1	oder die Situation loszulassen, oder sich besser zu fühlen mit einer Situation.
+1447.4194931801524	1453.48824444724	O1	Und ähm ja, also es gibt, wie gesagt, ganz viele, verschiedene Arten, wie man damit umgehen kann und
+1454.0515611879396	1455.9338105648394	O1	kann verschiedenen Menschen helfen.
+1456.714533927588	1460.2872077469533	O2	Ja. Und ähm
+1460.4267428527423	1465.8889544013125	O2	was denkst du dazu, dass man die Emotion probiert selbst zu verarbeiten in der Stille?
+1468.0665364359288	1474.039913464047	O1	Ähm ja, also ich persönlich äh finde es sehr hilfreich, wenn man sich ähm,
+1474.1035499809348	1478.774430618491	O1	quasi nicht ablenkt und sich wirklich still mit der Emotion auseinandersetzt. Also ich finde, das kann
+1478.8708160606811	1483.9291836415805	O1	sehr, sehr viel bringen. Still zu werden, das ist ja auch ähnlich dann wie bei der Medi- Meditation.
+1484.0858099851391	1487.7763101808184	O1	Ähm sich wirklich nur sich zu koz- konzentrieren. Und ich glaube,
+1488.0085116299813	1492.6339938893636	O1	bei vielen kommen dann sehr viele Emotionen hoch, weil man das nicht, oder ich zumindest,
+1492.6339938893636	1497.2374260179035	O1	das nicht oft mache, mich wirklich nur ins Sti- Stille zu setzen und nichts zu tun.
+1497.478628072383	1502.6660479026655	O1	Und ähm da kommen viele Emotionen hoch. Man muss natürlich dann auch damit umgehen können, aber ich glaube,
+1502.6660479026655	1510.4836770562001	O1	das kann sehr, sehr hilfreich sein für viele Leute. Aber vielleicht auch überfordernd für manche, die das wirklich nie machen.
+1512.6853910665118	1517.1934292743756	O2	Ja, ich denke, das ist wirklich, wenn man das noch nie gemacht hat, ist es natürlich schwierig.
+1517.4987725388426	1522.1149678851787	O2	Aber wenn man weiß, wie man am besten selber reagieren kann,
+1522.2385625403376	1528.3492051726266	O2	kann ich mir auch vorstellen, dass es halt wirklich eher gut ist, das selbst zu verarbeiten, weil man sich selber gut kennt.
+1531.7947541311999	1534.1042014157485	O1	Ja, würde ich auch so sagen ähm.
+1535.393458366781	1538.157423396461	O1	Dass das äh sehr hilfreich ist.
+1539.06734229478	1545.3045480765556	O1	Hattest du denn äh mal in de- den letzten, in der letzten Zeit eine Emotion,
+1545.428515091078	1548.7748044882399	O1	die du schwierig fandest äh auszudrücken?
+1549.1136476612676	1553.039250755184	O2	Äh ja, darüber möchte ich jetzt hier ähm weniger sprechen,
+1553.2075183536454	1556.5260627641653	O2	ähm weil ich äh emotional
+1556.567385102339	1563.812856930703	O2	das immer noch ähm habe. Aber ich finde es sehr interessant, wenn man äh sich selbst bewusst ist, wie man mit
+1563.812856930703	1571.2219656826346	O2	Emotionen umgehen kann, und man vielleicht auch merkt, dass zum Beispiel Leute in Südamerika viel mehr über Emotionen reden generell,
+1571.3646953167502	1574.8285880493568	O2	und man dann mit diesen redet, finde ich es sehr viel angenehmer,
+1574.9442905962444	1580.4740545318334	O2	als wenn man jetzt äh einfach so in dem deutschen Sprachraum über Emotionen redet.
+1581.4409979085344	1586.926962437894	O1	Aha, interessant. Also würdest du sagen, dass Menschen in Südamerika mehr über ihre Emotionen reden?
+1587.2434915980648	1589.9120936540314	O2	Deutlich viel mehr über Emotionen reden, ja.
+1591.8236675555715	1597.012936884144	O1	Interessant. Ähm das heißt du würdest sagen, in Deutschland redet man relativ wenig über Emotionen?
+1597.012936884144	1598.4402130486264	O2	Ja, definitiv.
+1600.9851006745773	1606.3675869426945	O1	Okay. Ähm gut, und wie, wie ist dir das aufgefallen?
+1607.2048306688862	1607.9049890067906	O2	Ähm ja,
+1608.385236517551	1615.2874753452345	O2	man halt viel mehr Nachfragen bekommt. Und man halt auch darüber mehr offen redet, ja.
+1616.6011010552256	1623.8318838407133	O1	Hm. Ja, ich meine, das kann ich mir auf jeden Fall ähm gut vorstellen. Ich meine aus meiner Erfahrung heraus,
+1623.8318838407133	1625.567435818008	O1	würde ich auch sagen, dass Menschen in Deutschland
+1626.1768228686176	1631.6632991928	O1	relativ verschlossen sind und nicht wirklich über Emotionen reden. Aber das kann man natürlich auch nicht unbedingt verallgemeinern,
+1631.6632991928	1638.5158714407214	O1	weil natürlich jeder im Einzelfall anders macht. Aber generell konnte ich auch schon eine starke Tendenz in Deutschland wahrnehmen,
+1638.9688571302563	1641.1875640939918	O1	ähm nicht wirklich über Emotionen zu reden.
+1643.1933926057625	1645.282944035639	O1	Was denkst du denn, woran das liegt?
+1646.5090261392686	1652.676949447317	O2	Irgendwie dass die Leute halt einfach viel mehr auch auf das Leben basiert sind und nicht nur auf auf den Job.
+1652.9406915956558	1657.6622236093106	O2	Und deswegen halt sich auch ähm
+1659.4677910442083	1665.112730643279	O2	ja, halt einfach mehr bewusst sind mit Emotionen umzugehen und halt auch über diese viel mehr sprechen,
+1665.112730643279	1667.678634198999	O2	weil sie halt nicht nur über ihren Job äh fokussiert sind.
+1669.2336630508917	1673.4056599616795	O1	Das ist eigentlich ein sehr guter Punkt, kann ich mir auf jeden Fall gut vorstellen ähm.
+1674.1168389438185	1681.2526327114026	O1	Ja, ich habe auch das Gefühl, in Deutschland äh sind die meisten wirklich sehr stark auf ihren Job fokussiert und nicht wirklich auf viel mehr in ihrem Leben.
+1681.4724848952694	1684.4349375180361	O1	Aber gut, das ist jetzt auch sehr verallgemeinert, aber ja.
+1686.1221739314044	1687.9152450435402	O1	Ja, macht auf jeden Fall viel Sinn.
+1694.5115349071968	1696.5353104490673	O2	Ja? Nee, äh gehe weiter.
+1696.9947709319442	1704.9947709319442	O1	Ja, echt jetzt seit, also ich habe jetzt nicht unbedingt einen starken Punkt. Ich habe mir gerade überlegt, wie das dann ist, auch so aufzuwachsen, oder wie
+1706.2923346441112	1714.2923346441112	O1	ja, ich weiß nicht genau. In Südamerika, ich meine, meine Mutter äh kommt ja aus Brasilien ähm.
+1714.572697089769	1720.8308198674465	O1	Und ich würde auch sagen, dass sie auf jeden Fall viel mehr über Emotionen spricht und das schon immer gemacht hat.
+1720.8308198674465	1728.808092568493	O1	Aber das muss, kann jetzt natürlich auch Zufall sein. Ähm aber ja. Was wolltest du noch sagen?
+1729.537403086615	1733.2135817458657	O2	Äh ja, ich finde es einfach über emotiona- über Emotionen,
+1733.2135817458657	1738.4980717452947	O2	äh gut und offen zu reden mit äh nahen Freunden, wenn man jetzt mit äh Leuten spricht,
+1738.4980717452947	1744.4813631915995	O2	die einen gar nicht kennen, ist es, glaube ich auch, für die Personen schwer, die Emotionen äh zu verarbeiten
+1744.4813631915995	1750.7156113121994	O2	und zu verstehen, wie man der anderen Person am besten ähm emotional echt helfen könnte.
+1750.7952732823971	1755.1758902346178	O2	Deswegen finde ich es sehr wichtig, dass man darüber halt vor allem mit engen Leuten spricht,
+1755.1758902346178	1760.2254563181662	O2	und nicht einfach mit Leuten, die ähm weit entfernt sind und man die gar nicht so richtig kennt.
+1761.5130394519579	1767.3750261421517	O1	Ja, ich meine, äh da stimme ich natürlich auf jeden Fall zu. Aber ich glaube, manchmal kann es auch hilfreich sein,
+1767.6525859751005	1772.966400441367	O1	so von irgendjemandem, den man wirklich so kaum kennt oder gar nicht kennt oder ganz wenig Bezug hat,
+1773.0580034207073	1778.6585941288263	O1	so eine ganz neutrale, ein ganz neutrales Feedback zu kriegen manchmal für verschiedene Situationen.
+1779.1373779786074	1786.5985741219522	O1	Ähm aber das ist natürlich nur in Einzelfällen aus meiner Erfahrung und nicht wirklich immer. Und es hilft natürlich meistens ähm,
+1786.5985741219522	1791.3468143070688	O1	das mit engen Freunden äh zu machen, mit denen man eine engere Beziehung hat.
+1791.5696040213054	1796.0188963172182	O1	Ähm aber manchmal, finde ich, kann es schon auch helfen, einen neutralen Blick zu haben.
+1796.3255746291159	1802.4488262647592	O2	Ja. Und halt vor allem eben mit anderen Leuten offen darüber ähm zu reden.
+1802.5418046915636	1808.014137200864	O2	Und zu verstehen ähm, wei die Emotion echt am besten geregelt werden kann.
